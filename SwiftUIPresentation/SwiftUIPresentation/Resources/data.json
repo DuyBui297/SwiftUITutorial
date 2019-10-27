@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Ozil",
+        "id": 1001,
+        "coordinates": {
+            "longitude": -116.166868,
+            "latitude": 34.011286
+        },
+        "imageName": "ozil"
+    },
+    {
+        "name": "Quang Hai",
+        "id": 1002,
+        "coordinates": {
+            "longitude": -116.166868,
+            "latitude": 34.011286
+        },
+        "imageName": "quanghai.jpg"
+    },
+    {
+        "name": "Xuan Truong",
+        "id": 1003,
+        "coordinates": {
+            "longitude": -116.166868,
+            "latitude": 34.011286
+        },
+        "imageName": "xuantruong.jpg"
+    },
+    {
+        "name": "Cong Phuong",
+        "id": 1004,
+        "coordinates": {
+            "longitude": -116.166868,
+            "latitude": 34.011286
+        },
+        "imageName": "congphuong"
+    }
+]
